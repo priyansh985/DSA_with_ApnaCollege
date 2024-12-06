@@ -1,0 +1,4 @@
+{
+    "cpp_boilerplate": "#include <iostream>\n#include <vector>\n#include <algorithm>\n#include <cmath>\n#include <string>\n#include <map>\n#include <set>\n#include <unordered_map>\n#include <unordered_set>\n\n#define FAST_IO ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL)\n#define ll long long\n#define vi vector<int>\n#define vll vector<long long>\n#define pii pair<int, int>\n#define mp make_pair\n#define pb push_back\n#define all(v) (v).begin(), (v).end()\n\nusing namespace std;\n\nint main() {\n    FAST_IO;\n    int n;\n    cout << \"Enter a number: \";\n    cin >> n;\n    cout << \"The number you entered is: \" << n << endl;\n    return 0;\n}\n"
+  }
+  
